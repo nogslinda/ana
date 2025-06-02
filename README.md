@@ -16,8 +16,7 @@
             srcset="">
         <p class="lead">Eu sou Fernanda_</p>
         <h1>Eu ensino Programação</h1>
-        <p>Sou Engenheira de Computação e Pedagoga. Ensino pensamento computacional para estudantes do Ensino
-            Fundamental e Médio. Ensino sobre pensamento computacional usando HTML, CSS e JavaScript. Veja os projetos
+        <p>Sou estudante da Escola Joana Motta. Estudo no ensino médio, no 3° ano. Veja os projetos
             que já desenvolvi!</p>
         <p>Minhas habilidades</p>
         <div>
