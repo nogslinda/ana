@@ -5,8 +5,8 @@ body {
 }
 
 header, footer {
-  background-color: #860707; /* azul mais escuro */
-  color: #d4af37; /* dourado claro para header e footer */
+  background-color:rgb(245, 248, 65); /* azul mais escuro */
+  color: #000000; /* dourado claro para header e footer */
   padding: 20px 0;
 }
 
